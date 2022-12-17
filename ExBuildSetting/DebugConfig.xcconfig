@@ -1,0 +1,11 @@
+//
+//  DebugConfig.xcconfig
+//  ExBuildSetting
+//
+//  Created by 김종권 on 2022/12/17.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = BuildSttingExample
